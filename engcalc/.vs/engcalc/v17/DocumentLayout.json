@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0411\u044D\u043A\\engineeringcalc\\testiki2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98BA267D-6E66-424D-9C12-88D8152EDAC6}|testiki\\testiki.csproj|c:\\\u0431\u044D\u043A\\engineeringcalc\\testiki2\\testiki\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BA267D-6E66-424D-9C12-88D8152EDAC6}|testiki\\testiki.csproj|solutionrelative:testiki\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BA267D-6E66-424D-9C12-88D8152EDAC6}|testiki\\testiki.csproj|C:\\\u0411\u044D\u043A\\engineeringcalc\\testiki2\\testiki\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{98BA267D-6E66-424D-9C12-88D8152EDAC6}|testiki\\testiki.csproj|solutionrelative:testiki\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\\u0411\u044D\u043A\\engineeringcalc\\testiki2\\testiki\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "testiki\\MainWindow.xaml",
+              "ToolTip": "C:\\\u0411\u044D\u043A\\engineeringcalc\\testiki2\\testiki\\MainWindow.xaml",
+              "RelativeToolTip": "testiki\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-19T18:47:58.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\\u0411\u044D\u043A\\engineeringcalc\\testiki2\\testiki\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "testiki\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\\u0411\u044D\u043A\\engineeringcalc\\testiki2\\testiki\\MainWindow.xaml.cs",
+              "RelativeToolTip": "testiki\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAxwAkCAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:47:58.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1434,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
